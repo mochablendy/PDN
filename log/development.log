@@ -1,0 +1,7 @@
+[Fri Apr 12 11:08:29 2013] [info] Listening at "http://*:3000".
+[Fri Apr 12 11:08:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 12 11:08:35 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Fri Apr 12 11:08:35 2013] [debug] Routing to controller "PDN::Example" and action "welcome".
+[Fri Apr 12 11:08:35 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Apr 12 11:08:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Apr 12 11:08:35 2013] [debug] 200 OK (0.031412s, 31.835/s).
